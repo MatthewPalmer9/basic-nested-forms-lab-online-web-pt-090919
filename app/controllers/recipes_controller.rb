@@ -18,5 +18,5 @@ class RecipesController < ApplicationController
 
   private
 
-  def 
+  def recipe_params
 end
